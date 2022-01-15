@@ -29,4 +29,4 @@ and feel free to share your opinion, constructive criticism, or comments about m
 
 ## Deployed Version
 
-Feel free to visit 👉 https://covid19-ometer.netlify.com/
+Feel free to visit 👉 https://61e2e452bf34475b2bce0595--wizardly-mayer-2821fa.netlify.app/
