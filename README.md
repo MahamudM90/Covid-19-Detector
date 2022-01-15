@@ -1,5 +1,5 @@
 # covid-19
-This isimple web app for tracking coronavirus (Covid-19)
+This is a simple web app for tracking coronavirus (Covid-19)
 
 ## Key Features
 Some of the standout features of the project are
