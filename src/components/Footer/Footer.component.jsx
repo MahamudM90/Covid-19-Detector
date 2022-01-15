@@ -10,7 +10,7 @@ const Footer = ({ font, lan }) => (
                 <i className='fas heart fa-heart mx-2'></i> এর সাথে ডেভেলপ করেছে
                 <a
                   className='text-primary font-weight-bold'
-                  href='https://lakshmandev.netlify.app/'
+                  href='https://mahamudsportfolio.netlify.app/'
                   target='blank'
                 >
                   {' '}
