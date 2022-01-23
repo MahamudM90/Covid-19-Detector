@@ -29,4 +29,4 @@ and feel free to share your opinion, constructive criticism, or comments about m
 
 ## Deployed Version
 
-Feel free to visit 👉 https://61e2eace8eef0b6081256f49--modest-borg-49c0f5.netlify.app/
+Feel free to visit 👉 https://covid-19detector.netlify.app/
