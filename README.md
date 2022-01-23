@@ -1,4 +1,4 @@
-# covid-19
+# COVID-19
 This is a simple web app for tracking coronavirus (Covid-19).
 
 ## Key Features
