@@ -2,10 +2,10 @@
 This is a simple web app for tracking coronavirus (Covid-19).
 
 ![ScreenShot of Form](screenshorts/e.png)
+![ScreenShot of Form](screenshorts/a.png)
 ![ScreenShot of Form](screenshorts/b.png)
 ![ScreenShot of Form](screenshorts/c.png)
 ![ScreenShot of Form](screenshorts/d.png)
-![ScreenShot of Form](screenshorts/a.png)
 
 ## Key Features
 Some of the standout features of the project are
