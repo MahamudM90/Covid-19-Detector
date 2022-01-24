@@ -19,7 +19,7 @@ Some of the standout features of the project are
 ## Technologies
  
 1. React.js (Front-end)
-2. css (Styling)
+2. css3 (Styling)
 3. API used : [https://corona.lmao.ninja/v2](https://corona.lmao.ninja/v2)
 
 ## Known Bugs
