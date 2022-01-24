@@ -28,7 +28,7 @@ Feel free to email me at mahamud01795@gmail.com if you run into any issues or ha
 and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
 
 ### To run this project :
-1. Clone this reposito
+1. Clone this repositories
 2. Change your directory : `cd covid-19`
 3. Run `npm install`
 5. Run `npm start`
