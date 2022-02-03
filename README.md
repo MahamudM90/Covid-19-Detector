@@ -3,6 +3,8 @@ This is a simple web app for tracking coronavirus (Covid-19).
 
 ##### HomePage
 ![ScreenShot of Form](screenshorts/e.png)
+
+##### Information BD
 ![ScreenShot of Form](screenshorts/a.png)
 ![ScreenShot of Form](screenshorts/b.png)
 ![ScreenShot of Form](screenshorts/c.png)
