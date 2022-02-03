@@ -12,6 +12,8 @@ This is a simple web app for tracking coronavirus (Covid-19).
 
 ##### Current Situation
 ![ScreenShot of Form](screenshorts/c.png)
+
+##### Awareness for Covid-19
 ![ScreenShot of Form](screenshorts/d.png)
 
 ## Key Features
