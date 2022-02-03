@@ -6,6 +6,8 @@ This is a simple web app for tracking coronavirus (Covid-19).
 
 ##### Information BD
 ![ScreenShot of Form](screenshorts/a.png)
+
+##### Information Last 30 Days
 ![ScreenShot of Form](screenshorts/b.png)
 ![ScreenShot of Form](screenshorts/c.png)
 ![ScreenShot of Form](screenshorts/d.png)
