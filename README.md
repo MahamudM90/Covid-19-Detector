@@ -44,4 +44,4 @@ and feel free to share your opinion, constructive criticism, or comments about m
 
 ## Deployed Version
 
-Feel free to visit 👉 https://covid-19detector.netlify.app/
+Feel free to visit 👉 https://covid-19detector.netlify.app
